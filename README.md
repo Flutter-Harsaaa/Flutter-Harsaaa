@@ -24,10 +24,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flutter-Harsaaa&show_icons=true&theme=radical" alt="Flutter-Harsaaa" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flutter-Harsaaa&theme=radical" alt="Flutter-Harsaaa" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Flutter-Harsaaa&theme=radical)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Flutter-Harsaaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br /><br />
+  <!-- Active streak badge -->
+  <img src="https://streak-stats.demolab.com?user=Flutter-Harsaaa&theme=radical" alt="GitHub Streak"/>
+   <!-- Fallback text badge -->
+  <img src="https://img.shields.io/badge/Streak-Temporarily_Unavailable-lightgrey?logo=github" alt="Streak Unavailable" />
 
 </p>
 
@@ -35,9 +37,17 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-tiwari-930368356/)  
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/un_pvt)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=githubpages)](https://your-portfolio.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-tiwari-930368356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/un_pvt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-grey?logo=githubpages" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
