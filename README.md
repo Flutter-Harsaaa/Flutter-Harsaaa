@@ -27,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Flutter-Harsaaa&show_icons=true&theme=radical" alt="Flutter-Harsaaa" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flutter-Harsaaa&theme=radical" alt="Flutter-Harsaaa" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Flutter-Harsaaa&theme=radical)](https://git.io/streak-stats)
+
 </p>
 
 ---
